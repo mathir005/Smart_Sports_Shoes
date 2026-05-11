@@ -1,4 +1,4 @@
-# 🏃 StepPulse — Smart IoT Sports Shoe Activity Tracker
+# 🏃 Smart Sports Shoe Activity Tracker
 
 ![StepPulse](https://img.shields.io/badge/StepPulse-v2.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-orange)
